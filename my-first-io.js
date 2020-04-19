@@ -55,6 +55,42 @@
      */
 
 const fs = require('fs')
-let file = fs.readFileSync(process.argv[2])
-let newLines = file.toString().split('\n').length - 1;
-console.log(newLines)
+const file = fs.readFileSync(process.argv[2])
+let lines = file.toString().split('\n').length - 1
+console.log(lines)
+
+const fs = require('fs')
+const file = fs.readFileSync(process.argv[2])
+const lines = file.toString().split('\n').length - 1
+console.log(lines)
+
+
+const fs = require('fs')
+const file = fs.readFileSync(process.argv[2])
+const lines = file.toString().split('\n').length - 1
+console.log(lines)
+
+const fs = require('fs')
+const file = fs.readFileSync(process.argv[2])
+const lines = files.toString().split('\n').length - 1
+console.log(lines)
+
+const fs = require('fs')
+const file = fs.readFileSync(process.argv[2])
+const lines = file.toString().split('\n').length - 1
+console.log(lines)
+
+const fs = require('fs')
+const file = fs.readFileSync(process.argv[2])
+const lines = file.toString().split('\n').length - 1
+console.log(lines)
+
+const fs = require('fs')
+const file = fs.readFileSync(process.argv[2])
+const lines = file.toString().split('\n').length - 1 
+console.log(lines)
+
+const fs = require('fs')
+const file = fs.readFileSync(process.argv[2])
+const lines = file.toString().split('\n').length - 1
+console.log(lines)
